@@ -1,3 +1,6 @@
+> **Start here (Hub):** https://github.com/willshacklett/god-variable-theory  
+> One-click ecosystem map • demos • CI enforcement • runtime monitoring
+
 # GV Drift Demo
 
 **A minimal demonstration of a drift scalar detecting regression _before_ CI tests fail.**
